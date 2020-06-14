@@ -68,7 +68,7 @@
         "ExperimentalEnableHardenedMode": false,
     },
     "TeamSettings": {
-        "SiteName": "Mattermost",
+        "SiteName": "PROJECT-ELICE",
         "MaxUsersPerTeam": 50,
         "EnableTeamCreation": true,
         "EnableUserCreation": true,
