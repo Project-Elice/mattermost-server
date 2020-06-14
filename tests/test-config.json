@@ -69,7 +69,7 @@
     },
     "TeamSettings": {
         "SiteName": "PROJECT-ELICE",
-        "MaxUsersPerTeam": 50,
+        "MaxUsersPerTeam": 150,
         "EnableTeamCreation": true,
         "EnableUserCreation": true,
         "EnableOpenServer": false,
